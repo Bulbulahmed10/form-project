@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.main{
+    width: 400px;
+    margin: 20px auto;
+}
+.fullname { 
+    display: flex;
+}
+.div2{
+    margin-left: 50px;
+}
+
+.div1 input{
+    padding: 8px;
+    margin-top: 5px;
+    width: 200px;
+}
+
+
+.div2 input{
+    padding: 8px;
+    margin-top: 5px;
+    width: 200px;
+}
+
+.username{
+    display: flex;
+    margin-top: 10px;
+}
+
+.div4{
+    margin-left: 50px;
+}
+
+.div3 input{
+    padding: 8px;
+    margin-top: 5px;
+    width: 200px;
+}
+
+
+.div4 input{
+    padding: 8px;
+    margin-top: 5px;
+    width: 200px;
+}
+
+.password{
+    display: flex;
+    margin-top: 10px;
+}
+
+.div6{
+    margin-left: 50px;
+}
+
+.div5 input{
+    padding: 8px;
+    margin-top: 5px;
+    width: 200px;
+}
+
+
+.div6 input{
+    padding: 8px;
+    margin-top: 5px;
+    width: 200px;
+}
+
+.date{
+    display: flex;
+    margin-top: 10px;
+}
+
+.div8{
+    margin-left: 50px;
+}
+
+.div7 input{
+    padding: 8px;
+    margin-top: 5px;
+    width: 200px;
+}
+
+
+
+.div9{
+    margin-top: 10px;
+    
+}
+
+.div10{
+    margin-top: 10px;
+    margin-left: 22px;
+    
+}
+
+.choose{
+    display: flex;
+    margin-top: 10px;
+}
+
+.div9 input{
+    margin-top: 10px;
+    padding: 8px;
+}
+
+
+.massage{
+    margin-top: 10px;
+}
+
+.buttom{
+    margin-top: 10px;
+    padding: 20px;
+    text-align: center;
+}
+.submit{
+    padding: 10px;
+    width: 150px;
+}
+
+.reset{
+    padding: 10px;
+    width: 150px;
+    margin-left: 10px;
+}
+body{
+    background-color: darkblue;
+}
+.main{
+    background-color: darkorange;
+    width: 500px;
+    padding: 30px;
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 17px;
+
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+.main input{
+    border-radius: 5px;
+}
+.main input:hover{
+    border-color: blue
+    
+}
+select{
+    padding: 8px;
+    width: 220px;
+    background: #FFFFFF;
+    border-radius: 5px ;
+    margin-top: 5px;
+}
+
+select:hover{
+    border-color: blue;
+
+}
+
+textarea{
+    border-radius: 8px;
+}
+textarea:hover{
+    border-color: blue;
+}
+.buttom input{
+    font-size: 15px;
+    font-weight: bold;
+}
